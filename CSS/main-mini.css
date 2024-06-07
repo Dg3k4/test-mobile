@@ -314,7 +314,8 @@
 
     }
     .projects .project-img {
-        height: 315px;
+        width: 100%;
+        height: auto;
     }
     .project-item2 {
         display: flex;
