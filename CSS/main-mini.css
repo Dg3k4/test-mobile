@@ -320,7 +320,6 @@
         display: flex;
         flex-direction: column;
         justify-content: center;
-        width: 100%;
         transform: scale(100%);
     }
     .project-item3 {
